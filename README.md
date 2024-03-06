@@ -2,5 +2,5 @@
 # actividad001
 
 Primer readme de la actividad001
-Esta es la ramita de Jordi
+Esta es la ramita de Daysi
 
